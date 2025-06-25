@@ -141,6 +141,9 @@ semaphore server --config=./config.json
 ```
 <br>
 
+![image](https://github.com/user-attachments/assets/9798fc91-37f2-4072-946c-bbebfbf4df97)
+<br>
+
 We can now access it via ```https://localhost:3000/```
 
 ![image](https://github.com/user-attachments/assets/c4445486-9f51-4f1d-a2a2-b97ac03b5f39)
